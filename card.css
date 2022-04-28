@@ -1,0 +1,12 @@
+.card {
+	display: flex;
+}
+
+.innerCard {
+	margin-left: 2px;
+    text-align: left;
+}
+
+.innerCard h3 {
+	font-size: 25px;
+}
